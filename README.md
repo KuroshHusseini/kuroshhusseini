@@ -1,6 +1,6 @@
 
 # Hi there!
-I am a fullstack mobile application developer from Finland
+I´m a third-year student at Metropolia University of Applied Sciences studying mobile application development. My goal is to become a full-stack developer. 
 - 🔭 Currently completing my bachelor's degree in metropolia UAS (third year)
 - 🌱 Learing React, Redux, MongoDB, NodeJs, Testing with Jest and REST API
 <br>
