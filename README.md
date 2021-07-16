@@ -1,5 +1,5 @@
 I am a fullstack mobile application developer from Finland
-- 🔭 Currently completing my bachelors degree in metropolia UAS
+- 🔭 Currently completing my bachelor's degree in metropolia UAS
 - 🌱 Learing React, Redux, MongoDB, NodeJs, Testing with Jest and REST API
 <br>
 
