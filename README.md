@@ -2,7 +2,7 @@
 # Hi there!
 I´m a third-year student at Metropolia UAS studying mobile application development. Dedicated to becoming a full-stack developer 
 - 🔭 Currently completing my bachelor's degree in metropolia UAS (third year)
-- 🌱 Learning React, Redux, MongoDB, NodeJs, Testing with Jest and REST API
+- 🌱 Learning React, Redux, MongoDB, NodeJs, REST API, Testing with Jest and Cypress 
 <br>
 
 ## Connect with me
