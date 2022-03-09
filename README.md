@@ -5,7 +5,6 @@
 - 💻 Currently completing my bachelor's degree in Metropolia UAS (third year)
 - 🥅 2022 Goals: Master front-end, become a full-stack developer and get familiarized with AI & ML
 - 🌱 Learning advanced React development, Redux/Redux Toolkit, Typescript, NextJS, Tailwind CSS, Jest & Cypress
-- 🏄‍♂️ Hobbies: Books, Gym, Coding
 
 ### Connect with me:
 
