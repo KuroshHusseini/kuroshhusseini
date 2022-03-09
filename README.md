@@ -39,10 +39,9 @@
 <br />
   <img align="left" alt="Kurosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kurosh97&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[tsplaylist]: https://www.youtube.com/watch?v=ahCwqrYpIuM&t=164s
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[linkedin]: https://www.linkedin.com/in/kurosh-husseini-7b3877195/
+[webdevplaylist]: https://github.com/kurosh97
+[jsplaylist]: https://github.com/kurosh97
+[tsplaylist]: https://github.com/kurosh97
+[cssplaylist]: https://github.com/kurosh97
+[reactplaylist]: https://github.com/kurosh97
