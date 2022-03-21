@@ -4,7 +4,7 @@
 
 - 💻 Currently completing my bachelor's degree in Metropolia UAS (third year)
 - 🥅 2022 Goals: Master front-end, become a full-stack developer and get familiarized with AI & ML
-- 🌱 Learning advanced React development, Redux/Redux Toolkit, Typescript, NextJS, Tailwind CSS, Jest & Cypress
+- 🌱 Learning advanced React development, Angular, NextJS, Tailwind CSS, Jest & Cypress
 
 ### Connect with me:
 
@@ -20,6 +20,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
 [<img align="left" alt="typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />][tsplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" style="padding-right:10px;" />][reactplaylist]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />][reactplaylist]
 
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
