@@ -1,6 +1,6 @@
 # Hi there, I'm Kurosh 👋
 
-## I´m a third-year student at Metropolia UAS studying mobile application development.
+## Mobile application & Front-end development.
 
 - 💻 Currently completing my bachelor's degree in Metropolia UAS (third year)
 - 🥅 2022 Goals: Master front-end, become a full-stack developer and get familiarized with AI & ML
