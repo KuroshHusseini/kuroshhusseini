@@ -2,7 +2,7 @@
 
 ## Mobile application & Front-end development.
 
-- 💻 Currently completing my bachelor's degree in Metropolia UAS (third year)
+- 💻 Currently completing my bachelor's degree in Metropolia UAS (final year)
 - 🥅 2022 Goals: Master front-end, become a full-stack developer and get familiarized with AI & ML
 - 🌱 Learning advanced React development, Redux, NextJS, Tailwind CSS, Jest & Cypress
 
