@@ -37,11 +37,11 @@
 <br />
 <br />
 <br />
-  <img align="left" alt="Kurosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kurosh97&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Kurosh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kuroshhusseini&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [linkedin]: https://www.linkedin.com/in/kurosh-husseini-7b3877195/
-[webdevplaylist]: https://github.com/kurosh97
-[jsplaylist]: https://github.com/kurosh97
-[tsplaylist]: https://github.com/kurosh97
-[cssplaylist]: https://github.com/kurosh97
-[reactplaylist]: https://github.com/kurosh97
+[webdevplaylist]: https://github.com/kuroshhusseini
+[jsplaylist]: https://github.com/kuroshhusseini
+[tsplaylist]: https://github.com/kuroshhusseini
+[cssplaylist]: https://github.com/kuroshhusseini
+[reactplaylist]: https://github.com/kuroshhusseini
