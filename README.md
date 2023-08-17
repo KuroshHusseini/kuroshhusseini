@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Kurosh</h2>
+<h2 align="center">Hi there, I'm Kurosh 👋🏼</h2>
 
 ###
 
