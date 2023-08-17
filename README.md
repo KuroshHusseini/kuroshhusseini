@@ -22,14 +22,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KuroshHusseini/KuroshHusseini/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
-
-###
-
 <h3 align="left">Technologies</h3>
 
 ###
