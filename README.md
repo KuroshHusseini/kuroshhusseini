@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">a committed software engineer who loves creating high-performance and user-friendly software solutions. My journey is led by my dedication to improving user experiences through effective and innovative software design.</h3>
+<h3 align="center">I'm a software engineer passionate about creating efficient, user-friendly software solutions.</h3>
 
 ###
 
